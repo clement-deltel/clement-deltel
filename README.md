@@ -22,17 +22,33 @@ Here are some ideas to get you started:
 -->
 ## Skills
 
-Programming: 
+<table><tr><td valign="top" width="25%">
 
-[![My Programming Skills](https://skillicons.dev/icons?i=py,bash,regex,md,powershell)](https://skillicons.dev)
+### Programming  
+<a href="https://github.com/clement-deltel">
+<div align="center">  
+       <img src="https://skillicons.dev/icons?i=py,bash,regex,md,powershell&perline=5" /> 
+</div>
+</a>
+ </td><td valign="top" width="25%">
+        
+### Operating Systems
+<a href="https://github.com/clement-deltel">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,windows&perline=5" /> 
+</div>
+</a>
 
-Operating Systems:
-
-[![My Operating Systems](https://skillicons.dev/icons?i=linux,debian,ubuntu,windows)](https://skillicons.dev)
-
-Tools:
-
-[![My Tools](https://skillicons.dev/icons?i=git,github,gitlab,docker,kubernetes,postgres,mysql,mongodb,redis,rabbitmq,elasticsearch,grafana,prometheus,vscode,obsidian,notion)](https://skillicons.dev)
+</td><td valign="top" width="25%">
+  
+### Tools
+<a href="https://github.com/clement-deltel">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,kubernetes,postgres,mysql,mongodb,redis,rabbitmq,elasticsearch,grafana,prometheus,vscode,obsidian&perline=5" /> 
+</div>
+</a>
+</td>
+</tr></table>
 
 ### Learning
 
