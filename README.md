@@ -40,7 +40,7 @@ I am a Software Developer with 5+ years of experience in developing enterprise a
 
 My projects are released as open-source on GitHub, and here are some highlights:
 
-- [Home Server](https://github.com/clement-deltel/home-server): I have been part of the self hosting community for about 5 years now, and it's genuinely transformed how I think about technology, privacy, and digital autonomy. What started as curiosity about running a single service has evolved into an homelab ecosystem of 20+ services, with some that have changed my life. There's something deeply rewarding about having complete control over your own data and infrastructure.
+- [Home Server](https://github.com/clement-deltel/home-server): I have been part of the self hosting community for about 5 years now, and it's genuinely transformed how I think about technology, privacy, and digital autonomy. What started as curiosity about running a single service has evolved into an homelab ecosystem of 30+ services, with some that have changed my life. There's something deeply rewarding about having complete control over your own data and infrastructure.
 - [Dotfiles](https://github.com/clement-deltel/dotfiles)
 - [Python Template Project](https://github.com/clement-deltel/python-boilerplate)
 
